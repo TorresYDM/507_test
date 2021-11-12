@@ -1,3 +1,4 @@
-## Stats 507
-## username: TorresYDM | email: dongming@umich.edu
-## name: dongming
+# Stats 507
+username: TorresYDM | email: dongming@umich.edu
+name: dongming
+
